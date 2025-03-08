@@ -38,7 +38,7 @@ window.settings = {
     'WeChat', 'weibo'
   ],
   notice: "测试通知公告",
-  knowledge: "https://air.ash.yt/",
+  knowledge: "https://wiki.ash.yt",
   telegram: {
     group: "https://t.me/Ash_Net",
     channel: "https://t.me/Ash_NOC",
