@@ -37,7 +37,7 @@ window.settings = {
   disabled_browser: [
     'WeChat', 'weibo'
   ],
-  notice: "测试通知公告",
+  notice: "新用户首单85折，折扣码：Ash",
   knowledge: "https://wiki.ash.yt",
   telegram: {
     group: "https://t.me/Ash_Net",
