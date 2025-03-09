@@ -4,7 +4,7 @@ window.settings = {
   // 站点描述
   description: '让我们一路同行',
   // 登录页背景图
-  background_url: '',
+  background_url: 'https://www.loliapi.com/acg/',
   // Crisp 客服系统网站 ID
   crisp_id: '7056abf8-bbff-44dd-badd-9c475b2730e3',
   // 客户端配置，只能修改 icon 和 url内容
