@@ -1,0 +1,18 @@
+{
+  "Authentication": "Ash",
+  "host_source": "https://www.ash6.com",
+  "Customer": "https://t.me/Ash_Net",
+  "crisp": "7056abf8-bbff-44dd-badd-9c475b2730e3",
+  "notice": 1,
+  "exchange": 1,
+  "hosts": [
+    "https://panel.333444.best",
+    "https://sky.ash.wf"
+  ],
+  "Carousel": [
+    {
+      "Carouselimages": "https://www.loliapi.com/acg/",
+      "Carouseladdress": "https://www.ash6.com"
+    }
+  ]
+}
