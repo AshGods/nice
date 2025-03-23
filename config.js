@@ -23,7 +23,7 @@ window.settings = {
     },
     "Mac OS": {
       icon: "material-symbols:desktop-mac-outline-rounded",
-      url: "https://d.ash.yt/d/ashnet/client/Ash.dmg?sign=UJdHEVob-9j76rJH7tHHApqmUNbqIJxCQvNDdRfxnJk=:0",
+      url: "https://d.ash.yt/d/ashnet/client/ashcloud-1.0.5-macos.zip?sign=Yw3t9EzBgqvYjxMZv7rixSiwWWJks5VfFUGYcKWj_SM=:0",
     }
   },
   // 额外配置
