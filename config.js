@@ -15,7 +15,7 @@ window.settings = {
     },
     Windows: {
       icon: "material-symbols:window",
-      url: "https://d.ash.yt/d/ashnet/client/Ash.exe?sign=EXY88GmWXf7EW3fcHo3CX48ofC-gvKDgkG40EWVfxfs=:0",
+      url: "https://d.ash.yt/d/ashnet/client/ASH-1.0.5-windows-amd64-setup.exe?sign=wh4s4QsqoyR0sqkqYHrheNBX51BFEUHEmXna6UzFuLY=:0",
     },
     Android: {
       icon: "material-symbols:android",
